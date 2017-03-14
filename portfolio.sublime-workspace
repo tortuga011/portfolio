@@ -1,0 +1,761 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"ce",
+				"center"
+			],
+			[
+				"bo",
+				"border-radius"
+			],
+			[
+				"no",
+				"none"
+			],
+			[
+				"menu",
+				"menu-content"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"up",
+				"uppercase"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"h",
+				"h2	Tag"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"ca",
+				"canvas	Tag"
+			],
+			[
+				"se",
+				"section	Tag"
+			],
+			[
+				"fo",
+				"footer	Tag"
+			],
+			[
+				"box",
+				"box-decoration-break"
+			],
+			[
+				"b",
+				"bold"
+			],
+			[
+				"f",
+				"font-weight"
+			],
+			[
+				"t",
+				"toggle"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"l",
+				"li	Tag"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"d",
+				"div	Tag"
+			],
+			[
+				"img",
+				"images"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"one",
+				"onebyone"
+			],
+			[
+				"back",
+				"background-position"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 29383,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/freelancer.css",
+			"settings":
+			{
+				"buffer_size": 11459,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"sftp: m",
+				"SFTP: Monitor File (Upload on External Save)"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:",
+				"Package Control: Remove Package"
+			],
+			[
+				"scrat",
+				"Scratch Pad"
+			],
+			[
+				"fuz",
+				"Hyperion: Bookmark Fuzzy"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			"import urllib3,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exists(ipp) else None; urllib3.install_opener(urllib3.build_opener(urllib3.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print 'Please restart Sublime Text to finish installation'",
+			"import urllib2,os;",
+			"import urllib2,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exists(ipp) else None; urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print 'Please restart Sublime Text to finish installation'"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/ing/www/portfolio",
+		"/home/ing/www/portfolio/img",
+		"/home/ing/www/portfolio/img/portfolio"
+	],
+	"file_history":
+	[
+		"/home/ing/Desktop/Битне ствари/Lične stvari/pisma za posao.doc",
+		"/home/ing/www/portfolio/js/classie.js",
+		"/home/ing/www/portfolio/css/freelancer.css",
+		"/home/ing/www/portfolio/index.html",
+		"/home/ing/www/portfolio/img/henbag.png",
+		"/home/ing/www/portfolio/css/bootstrap.css",
+		"/home/ing/www/mobilend/index.php",
+		"/home/ing/www/lift/index.php",
+		"/home/ing/www/mobilend/templates/adm/contact.php",
+		"/home/ing/www/mobilend/templates/adm/index.php",
+		"/home/ing/www/mobilend/templates/adm/sass/style.scss",
+		"/home/ing/www/mobilend/templates/adm/layout.php",
+		"/home/ing/www/mobilend/templates/adm/servis.php",
+		"/home/ing/www/mobilend/app/pages/Contact.php",
+		"/home/ing/www/mobilend/templates/adm/js/main.js",
+		"/tmp/css_reveal/product.html",
+		"/tmp/css_reveal/index.html",
+		"/home/ing/www/mobilend/templates/adm/gallery.php",
+		"/home/ing/www/mobilend/templates/adm/menu.php",
+		"/home/ing/www/mobilend/templates/adm/category.php",
+		"/home/ing/Desktop/Битне ствари/JS/tabdrop",
+		"/home/ing/www/mobilend/templates/adm/sidebar.php",
+		"/home/ing/www/mobilend/templates/adm/js/classie.js",
+		"/home/ing/www/mobilend/app/pages/Index.php",
+		"/home/ing/www/mobilend/app/pages/Category.php",
+		"/home/ing/www/mobilend/app/pages/Servis.php",
+		"/home/ing/www/mobilend/templates/adm/css/style.css",
+		"/home/ing/www/mobilend/app/pages/Product.php",
+		"/home/ing/www/mobilend/app/pages/Page.php",
+		"/home/ing/www/mobilend/templates/adm/slider.php",
+		"/home/ing/www/mobilend/mobilend.sublime-project",
+		"/home/ing/www/mobilend/print.css",
+		"/home/ing/www/Lift music/LiftMusic – Muzički portal.htm",
+		"/home/ing/www/MOBILEND NOVI/site.css",
+		"/home/ing/www/MOBILEND NOVI/search.css",
+		"/home/ing/www/MOBILEND NOVI/index.php",
+		"/home/ing/Dokumenti/Wholesale – Buy China Wholesale Products on DHgate.com_подаци/Wholesale – Buy China Wholesale Products on DHgate.com.htm",
+		"/home/ing/www/MOBILEND NOVI/less/style.less",
+		"/home/ing/www/MOBILEND NOVI/less/search.less",
+		"/home/ing/.config/sublime-text-3/Packages/LESS/LESS.sublime-settings",
+		"/home/ing/.config/sublime-text-3/Packages/User/LESS.sublime-settings",
+		"/home/ing/www/MOBILEND NOVI/index.html",
+		"/home/ing/www/MOBILEND NOVI/index.htm",
+		"/home/ing/www/MOBILEND NOVI/Dsquared2 Official Online Store United States: ready to wear, jackets, bags, backpacks.htm",
+		"/home/ing/www/MOBILEND NOVI/Dsquared2 Official Online Store United States: ready to wear, jackets, bags, backpacks_подаци/3313.js",
+		"/home/ing/www/Men Dsquared2 Hi Tech - Official Online Store United States_подаци/SearchLib.js",
+		"/home/ing/www/Men Dsquared2 Hi Tech - Official Online Store United States_подаци/site.css",
+		"/home/ing/www/Men Dsquared2 Hi Tech - Official Online Store United States_подаци/account_010.js",
+		"/home/ing/www/Men Dsquared2 Hi Tech - Official Online Store United States_подаци/account.js",
+		"/home/ing/www/Men Dsquared2 Hi Tech - Official Online Store United States_подаци/account_004.js",
+		"/home/ing/.config/sublime-text-3/Packages/CSSLint/Default (Linux).sublime-keymap",
+		"/home/ing/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/home/ing/www/Men Dsquared2 Hi Tech - Official Online Store United States_подаци/Men Dsquared2 Hi Tech - Official Online Store United States.htm",
+		"/home/ing/www/Case 3D/js/jquery.js",
+		"/home/ing/www/Case 3D/js/modernizr-2.js",
+		"/home/ing/www/Case 3D/index.html",
+		"/home/ing/www/Case 3D/main.css",
+		"/home/ing/.config/sublime-text-3/Packages/Javascript Beautify/Default (Linux).sublime-keymap",
+		"/home/ing/www/Case 3D/js/main.js",
+		"/home/ing/www/Case 3D/js/redirection-mobile.js",
+		"/home/ing/www/Case 3D/js/qjq3qux.js",
+		"/home/ing/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/ing/www/Case 3D/css/main.css",
+		"/home/ing/www/stablo_vezba/stil.css",
+		"/home/ing/www/stablo_vezba/efekti.js",
+		"/home/ing/www/stablo_vezba/index.html",
+		"/home/ing/Downloads/untitled.php",
+		"/home/ing/www/heraldicarts.net/style.css",
+		"/home/ing/www/heraldicarts.net/sftp-config.json",
+		"/home/ing/www/heraldicarts.net/css/editor-style.css",
+		"/home/ing/www/heraldicarts.net/header.php",
+		"/home/ing/www/heraldicarts.net/home.php",
+		"/home/ing/.config/sublime-text-3/Packages/SFTP/SFTP.sublime-settings",
+		"/home/ing/.config/sublime-text-3/Packages/User/SFTP.sublime-settings",
+		"/home/ing/www/heraldicarts.net/heraldicarts.sublime-project",
+		"/home/ing/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/data/www/Drazen/kiri.rs/views/product.html",
+		"/data/www/Drazen/kiri.rs/js/app.js",
+		"/data/www/Drazen/kiri.rs/js/jquery.nicescroll.min.js",
+		"/data/www/Drazen/kiri.rs/views/sceleton.php",
+		"/data/www/Drazen/kiri.rs/admin/template/footer.php",
+		"/data/www/Drazen/kiri.rs/style.css",
+		"/data/www/Drazen/kiri.rs/js/ngSlider.js",
+		"/data/www/Drazen/kiri.rs/js/ngScrollbar.js",
+		"/data/www/Drazen/kiri.rs/views/quickbuy.html",
+		"/data/www/Drazen/kiri.rs/js/jquery.nanoscroller.min.js",
+		"/data/www/Drazen/kiri.rs/js/scrollable.js",
+		"/home/nikoola/.config/sublime-text-3/Packages/SFTP/SFTP.sublime-settings",
+		"/home/nikoola/.config/sublime-text-3/Packages/User/SFTP.sublime-settings",
+		"/home/nikoola/www/Drazen/kiri.rs/views/filters.html",
+		"/home/nikoola/.config/sublime-text-3/Packages/User/LocalHistory.sublime-settings",
+		"/home/nikoola/.config/sublime-text-3/Packages/Local History/LocalHistory.sublime-settings",
+		"/home/nikoola/.config/sublime-text-3/Packages/User/less.sublime-build",
+		"/home/nikoola/.config/sublime-text-3/Packages/LESS/README.md",
+		"/home/nikoola/www/Drazen/kiri.rs/admin/pages/proizvodi.php",
+		"/home/nikoola/www/Drazen/kiri.rs/views/product.html",
+		"/home/nikoola/www/Drazen/kiri.rs/style.css",
+		"/home/nikoola/www/Drazen/kiri.rs/.htaccess",
+		"/home/nikoola/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/nikoola/Dokumenta/Translate/blender/branches/sr/sr.po",
+		"/home/nikoola/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/nikoola/.config/sublime-text-3/Packages/AngularJS/AngularJS-sublime-package.sublime-settings",
+		"/home/nikoola/.config/sublime-text-3/scratchpad.txt",
+		"/home/nikoola/.config/sublime-text-3/Packages/LESS/LESS.sublime-settings",
+		"/home/nikoola/.config/sublime-text-3/Packages/Javascript Beautify/JavascriptBeautify.sublime-settings",
+		"/home/nikoola/.config/sublime-text-3/Packages/Javascript Beautify/Default (Linux).sublime-keymap",
+		"/home/nikoola/www/Drazen/kiri.rs/js/default.js",
+		"/home/nikoola/www/Drazen/kiri.rs/views/onebyone.html",
+		"/home/nikoola/.config/sublime-text-3/Packages/User/JavascriptBeautify.sublime-settings",
+		"/home/nikoola/www/Drazen/kiri.rs/views/sceleton.php",
+		"/home/nikoola/.config/sublime-text-3/Packages/Less2Css/less2css.sublime-settings",
+		"/home/nikoola/.config/sublime-text-3/Packages/User/less2css.sublime-settings",
+		"/home/nikoola/.config/sublime-text-3/Packages/Less2Css/Default (Linux).sublime-keymap",
+		"/home/nikoola/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/nikoola/.config/sublime-text-3/Packages/Less2Css/README.md",
+		"/home/nikoola/www/Drazen/kiri.rs/sftp-config.json",
+		"/home/nikoola/www/Drazen/kiri.rs/less/style.less"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 109.0,
+		"where_history":
+		[
+			"/home/ing/www/Men Dsquared2 Hi Tech - Official Online Store United States_подаци",
+			"/data/www/Drazen/kiri.rs/js",
+			"/data/www/Drazen/kiri.rs/views",
+			"/data/www/Drazen/kiri.rs/js",
+			"/home/nikoola/www/Drazen/kiri.rs/views",
+			"/home/nikoola/www/Drazen/kiri.rs/js",
+			"/home/nikoola/www/Drazen/kiri.rs/views"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"url",
+			"a:hover",
+			"caption",
+			"abov",
+			"url",
+			"pri",
+			"#a",
+			"navbar-default",
+			"mobilend",
+			"/logo/small/",
+			"footer",
+			"#main",
+			"bod",
+			"footer",
+			"dropdown",
+			"#foo",
+			"#me",
+			"#menu",
+			"fixed",
+			"menu",
+			"dropdown",
+			"katalog",
+			"hover",
+			".hover",
+			"jquery",
+			"#sea",
+			"side",
+			"ADM",
+			"cat",
+			"nav",
+			"<hr",
+			"hr",
+			"border-top",
+			"header",
+			"menu",
+			"hea",
+			"header",
+			"$mobilend",
+			"$mobi",
+			"adm",
+			"dsquared2",
+			"href=\"http://www.dsquared2.com/.*\"",
+			"tc_img__1",
+			"header",
+			"tlefona.com/img/big/",
+			"tlefona.com/img/big//002/062/1.jpg",
+			"quotlefona.com/img/big//002/062/1.jpg",
+			"quot",
+			"#searchProducts .item:nth-child(1) .overlayItem .overlay {\n	color:#000!important;\n	background: #fff;\n	opacity: .8\n}",
+			".bottomBar",
+			"<div class=\"bottomBar\">",
+			"#searchProducts .bottomOverlay",
+			"<div class=\"bottomBar\">",
+			"div.overlay",
+			"bootomBar",
+			"filter: alpha(enabled;",
+			"filter: alpha(Opacity;",
+			"#container:before,#container:after{\n	content:' ';\n	display:table\n}\n\n#container:after{\n	clear:both\n}\n\n#container .sideMenu{\n	background:#fff;\n	float:left;\n	width:25%;\n	text-align:left;\n	text-transform:uppercase;\n	line-height:1.9\n}\n\n#container .sideMenu .selected>a>.text{\n	border-bottom:1px solid #000\n}\n\n#container .sideMenu a{\n	color:#000\n}\n\n#container .sideMenu .level-0{\n	display:none\n}\n\n#container .sideMenu .level-0>ul{\n	padding:30px 30px 30px 8%\n}\n\n#container .sideMenu .fall_winter,#container .sideMenu li.gallery [data-target-season=\"A\"]{\n	display:none\n}\n\n#container .sideMenu .fall_winter>div:first-child,#container .sideMenu li.gallery [data-target-season=\"A\"]>div:first-child{\n	display:none\n}\n\nbody.season_a #container .sideMenu .fall_winter,body.season_a #container .sideMenu li.gallery [data-target-season=\"A\"]{\n	display:block\n}\n\n#container .sideMenu .spring_summer,#container .sideMenu li.gallery [data-target-season=\"P\"]{\n	display:none\n}\n\n#container .sideMenu .spring_summer>div:first-child,#container .sideMenu li.gallery [data-target-season=\"P\"]>div:first-child{\n	display:none\n}\n\nbody.season_p #container .sideMenu .spring_summer,body.season_p #container .sideMenu li.gallery [data-target-season=\"P\"]{\n	display:block\n}\n\n#container .sideMenu .sideMenu a{\n	color:#000\n}\n\n#container .sideMenu .level-0>ul>li{\n	display:none\n}\n\n#container .sideMenu .level-0>ul>li>:first-child{\n	font-family:\"HelveticaNeueW02-95Black\",Helvetica,Arial,sans-serif;\n	padding-bottom:15px\n}\n\n.ru #container .sideMenu .level-0>ul>li>:first-child,.RU #container .sideMenu .level-0>ul>li>:first-child{\n	font-family:\"HelveticaNeueW10-95Black\",Helvetica,Arial,sans-serif\n}\n\n.zh #container .sideMenu .level-0>ul>li>:first-child{\n	font-family:\"HelveticaNeueW10-95Black\",Helvetica,Arial,sans-serif\n}\n\n.jp #container .sideMenu .level-0>ul>li>:first-child,.JP #container .sideMenu .level-0>ul>li>:first-child{\n	font-family:\"Hiragino Kaku Gothic ProN\",Meiryo,\"MS PGothic\",Sans-serif;\n	font-weight:bold\n}\n\n.cn #container .sideMenu .level-0>ul>li>:first-child{\n	font-family:\"Microsoft YaHei\",\"Microsoft YaHei Regular\",Arial,sans-serif;\n	font-weight:bold\n}\n\nbody.ru #container .sideMenu .level-0>ul>li>:first-child{\n	font-family:\"HelveticaNeueW10-95Black\",Helvetica,Arial,sans-serif\n}\n\n#container .sideMenu .level-0>ul>li.hasChildren>:first-child{\n	display:none\n}\n\n#container .sideMenu .level-1>ul #men_men>div:first-child,#container .sideMenu .level-1>ul #women_women>div:first-child,#container .sideMenu .level-1>ul #kids_kids>div:first-child{\n	display:none\n}\n\n#container .sideMenu .level-1>ul>li:first-child>div:first-child{\n	display:none\n}\n\n#container .sideMenu .level-1>ul>li>a:first-child{\n	display:none\n}\n\n#container .sideMenu .level-1>ul>.gallery>div:first-child{\n	display:none\n}\n\n#container .sideMenu .level-1>ul>.gallery.hasChildren{\n	padding-bottom:30px\n}\n\n#container .sideMenu .level-1>ul>.gallery.hasChildren.noPadding{\n	padding-bottom:0\n}\n\n#container .sideMenu .level-1>ul>.gallery.hasChildren#kids_gallery{\n	padding-top:0\n}\n\n#container .sideMenu .level-1>ul>.gallery.hasChildren>div:first-child{\n	display:none\n}\n\n#container .sideMenu .level-2>ul>li.hasChildren:first-child>div:first-child{\n	display:none\n}\n\n#container .sideMenu .level-3>ul>li.hasChildren{\n	padding-bottom:21px\n}\n\n#container .sideMenu .level-3>ul>li>:first-child{\n	font-family:\"HelveticaNeueW02-95Black\",Helvetica,Arial,sans-serif;\n	display:block;\n	padding-bottom:6px\n}\n\n.ru #container .sideMenu .level-3>ul>li>:first-child,.RU #container .sideMenu .level-3>ul>li>:first-child{\n	font-family:\"HelveticaNeueW10-95Black\",Helvetica,Arial,sans-serif\n}\n\n.zh #container .sideMenu .level-3>ul>li>:first-child{\n	font-family:\"HelveticaNeueW10-95Black\",Helvetica,Arial,sans-serif\n}\n\n.jp #container .sideMenu .level-3>ul>li>:first-child,.JP #container .sideMenu .level-3>ul>li>:first-child{\n	font-family:\"Hiragino Kaku Gothic ProN\",Meiryo,\"MS PGothic\",Sans-serif;\n	font-weight:bold\n}\n\n.cn #container .sideMenu .level-3>ul>li>:first-child{\n	font-family:\"Microsoft YaHei\",\"Microsoft YaHei Regular\",Arial,sans-serif;\n	font-weight:bold\n}\n\nbody.ru #container .sideMenu .level-3>ul>li>:first-child{\n	font-family:\"HelveticaNeueW10-95Black\",Helvetica,Arial,sans-serif\n}\n\nbody.jp #container .sideMenu .level-3>ul>li>:first-child{\n	font-weight:800\n}\n\nhtml.no-touch .grid .slot_image:hover .overlayContainer,html.no-touch .grid .slot_post:hover .overlayContainer,html.no-touch .grid .slot_video:hover .overlayContainer{\n	-moz-transition-duration:0.3s;\n	-o-transition-duration:0.3s;\n	-webkit-transition-duration:0.3s;\n	transition-duration:0.3s;\n	-webkit-transform:translateZ(0);\n	-moz-transform:translateZ(0);\n	-ms-transform:translateZ(0);\n	transform:translateZ(0);\n	padding-bottom:50px\n}\n\nhtml.no-touch .grid .slot_image:hover .black-overlay,html.no-touch .grid .slot_post:hover .black-overlay,html.no-touch .grid .slot_video:hover .black-overlay{\n	-moz-transition-duration:0.3s;\n	-o-transition-duration:0.3s;\n	-webkit-transition-duration:0.3s;\n	transition-duration:0.3s;\n	-moz-transition-timing-function:ease-out;\n	-o-transition-timing-function:ease-out;\n	-webkit-transition-timing-function:ease-out;\n	transition-timing-function:ease-out;\n	-moz-transition-property:opacity;\n	-o-transition-property:opacity;\n	-webkit-transition-property:opacity;\n	transition-property:opacity;\n	filter:progid:DXImageTransform.Microsoft.Alpha(Opacity=40);\n	opacity:0.4\n}\n\nhtml.no-touch .grid .slot_image:hover .video-play,html.no-touch .grid .slot_post:hover .video-play,html.no-touch .grid .slot_video:hover .video-play{\n	-moz-transition-duration:0.3s;\n	-o-transition-duration:0.3s;\n	-webkit-transition-duration:0.3s;\n	transition-duration:0.3s;\n	background:#fff;\n	color:#000\n}\n\n.grid{\n	position:relative;\n	width:100%;\n	overflow:hidden\n}\n\n.grid .black-overlay{\n	-moz-transition-duration:0.3s;\n	-o-transition-duration:0.3s;\n	-webkit-transition-duration:0.3s;\n	transition-duration:0.3s;\n	-moz-transition-timing-function:ease-out;\n	-o-transition-timing-function:ease-out;\n	-webkit-transition-timing-function:ease-out;\n	transition-timing-function:ease-out;\n	-moz-transition-property:opacity;\n	-o-transition-property:opacity;\n	-webkit-transition-property:opacity;\n	transition-property:opacity;\n	height:100%;\n	width:100%;\n	background-color:#000;\n	z-index:5;\n	filter:progid:DXImageTransform.Microsoft.Alpha(Opacity=0);\n	opacity:0\n}\n\n.grid .slot{\n	position:absolute;\n	overflow:hidden\n}\n\n.grid .slot_text p{\n	font-family:\"HelveticaNeueW02-45Light\",Helvetica,Arial,sans-serif;\n	font-size:40px;\n	padding-left:30px;\n	line-height:25px;\n	padding-right:30px\n}\n\n.ru .grid .slot_text p,.RU .grid .slot_text p{\n	font-family:\"HelveticaNeueW10-45Light\",Helvetica,Arial,sans-serif\n}\n\n.zh .grid .slot_text p{\n	font-family:\"HelveticaNeueW10-45Light\",Helvetica,Arial,sans-serif\n}\n\n.jp .grid .slot_text p,.JP .grid .slot_text p{\n	font-family:\"Hiragino Kaku Gothic ProN\",Meiryo,\"MS PGothic\",Sans-serif\n}\n\n.cn .grid .slot_text p{\n	font-family:\"Microsoft YaHei\",\"Microsoft YaHei Regular\",Arial,sans-serif\n}\n\n.grid .slot_text p:first-child{\n	padding-top:30px\n}\n\n.grid .slot_text .bodycopy{\n	position:relative;\n	top:-2px;\n	font-family:\"HelveticaNeueW02-45Light\",Helvetica,Arial,sans-serif;\n	font-size:15px\n}\n\n.ru .grid .slot_text .bodycopy,.RU .grid .slot_text .bodycopy{\n	font-family:\"HelveticaNeueW10-45Light\",Helvetica,Arial,sans-serif\n}\n\n.zh .grid .slot_text .bodycopy{\n	font-family:\"HelveticaNeueW10-45Light\",Helvetica,Arial,sans-serif\n}\n\n.jp .grid .slot_text .bodycopy,.JP .grid .slot_text .bodycopy{\n	font-family:\"Hiragino Kaku Gothic ProN\",Meiryo,\"MS PGothic\",Sans-serif\n}\n\n.cn .grid .slot_text .bodycopy{\n	font-family:\"Microsoft YaHei\",\"Microsoft YaHei Regular\",Arial,sans-serif\n}\n\n.grid .slot_text .ctabuttonContainer{\n	position:absolute;\n	bottom:60px;\n	width:100%;\n	margin-left:30px\n}\n\n.grid .slot_image a,.grid .slot_post a,.grid .slot_video a{\n	z-index:5\n}\n\n.grid .slot_image a.overlay,.grid .slot_post a.overlay,.grid .slot_video a.overlay{\n	-moz-transition-duration:0.3s;\n	-o-transition-duration:0.3s;\n	-webkit-transition-duration:0.3s;\n	transition-duration:0.3s;\n	-moz-transition-timing-function:ease-out;\n	-o-transition-timing-function:ease-out;\n	-webkit-transition-timing-function:ease-out;\n	transition-timing-function:ease-out;\n	-moz-transform:translate(0, 0);\n	-ms-transform:translate(0, 0);\n	-webkit-transform:translate(0, 0);\n	transform:translate(0, 0);\n	position:absolute;\n	bottom:0;\n	left:0;\n	right:0;\n	text-align:left;\n	padding:60% 0 0 0\n}\n\n.grid .slot_image .black-overlay,.grid .slot_post .black-overlay,.grid .slot_video .black-overlay{\n	position:absolute\n}\n\n.grid .slot_social{\n	font-family:\"HelveticaNeueW02-45Light\",Helvetica,Arial,sans-serif\n}\n\n.ru .grid .slot_social,.RU .grid .slot_social{\n	font-family:\"HelveticaNeueW10-45Light\",Helvetica,Arial,sans-serif\n}\n\n.zh .grid .slot_social{\n	font-family:\"HelveticaNeueW10-45Light\",Helvetica,Arial,sans-serif\n}\n\n.jp .grid .slot_social,.JP .grid .slot_social{\n	font-family:\"Hiragino Kaku Gothic ProN\",Meiryo,\"MS PGothic\",Sans-serif\n}\n\n.cn .grid .slot_social{\n	font-family:\"Microsoft YaHei\",\"Microsoft YaHei Regular\",Arial,sans-serif\n}\n\n.grid .slot_social .twitter-strip{\n	padding:30px 0 15px 30px\n}\n\n.grid .slot_social .twitter-strip .icon-twitter{\n	margin-right:10px;\n	font-size:28px\n}\n\n.grid .slot_social .twitter-strip a{\n	font-size:16px;\n	font-family:\"HelveticaNeueW02-75Bold\",Helvetica,Arial,sans-serif;\n	text-transform:uppercase\n}\n\n.ru .grid .slot_social .twitter-strip a,.RU .grid .slot_social .twitter-strip a{\n	font-family:\"HelveticaNeueW10-75Bold\",Helvetica,Arial,sans-serif\n}\n\n.zh .grid .slot_social .twitter-strip a{\n	font-family:\"HelveticaNeueW10-75Bold\",Helvetica,Arial,sans-serif\n}\n\n.jp .grid .slot_social .twitter-strip a,.JP .grid .slot_social .twitter-strip a{\n	font-family:\"Hiragino Kaku Gothic ProN\",Meiryo,\"MS PGothic\",Sans-serif;\n	font-weight:bold\n}\n\n.cn .grid .slot_social .twitter-strip a{\n	font-family:\"Microsoft YaHei\",\"Microsoft YaHei Regular\",Arial,sans-serif;\n	font-weight:bold\n}\n\n.grid .slot_social.instagram .icon-instagram{\n	font-size:28px;\n	color:#fff;\n	position:absolute;\n	bottom:20px;\n	left:20px\n}\n\n.grid .slot_social.twitter{\n	background-color:#00ACEE;\n	color:#fff\n}\n\n.grid .slot_social.twitter .social-inner{\n	padding:0 5% 0 30px;\n	font-size:16px;\n	line-height:25px\n}\n\n.grid .slot_social.twitter .social-inner a{\n	display:inline-block\n}\n\n.grid .slot_social.twitter .social-inner .user{\n	display:none\n}\n\n.grid .slot_social.twitter .timePosted{\n	position:absolute;\n	top:38px;\n	right:5%\n}\n\n.grid .slot_social.twitter .interact{\n	position:absolute;\n	bottom:2%\n}\n\n.grid .slot_social.twitter .interact a:hover{\n	filter:progid:DXImageTransform.Microsoft.Alpha(Opacity=50);\n	opacity:0.5\n}\n\n.grid .slot_social.twitter .twitter_reply_icon,.grid .slot_social.twitter .twitter_retweet_icon,.grid .slot_social.twitter .twitter_fav_icon{\n	font-size:18px;\n	width:18px;\n	height:18px;\n	line-height:1;\n	overflow:hidden;\n	margin-right:38px\n}\n\n.grid .slot_social.twitter .twitter_reply_icon:before{\n	content:\"\";\n	font-family:'dsquared-icons';\n	speak:none;\n	font-style:normal;\n	font-weight:normal;\n	font-variant:normal;\n	text-transform:none;\n	line-height:1;\n	-webkit-font-smoothing:antialiased;\n	-moz-osx-font-smoothing:grayscale\n}\n\n.grid .slot_social.twitter .twitter_retweet_icon:before{\n	content:\"\";\n	font-family:'dsquared-icons';\n	speak:none;\n	font-style:normal;\n	font-weight:normal;\n	font-variant:normal;\n	text-transform:none;\n	line-height:1;\n	-webkit-font-smoothing:antialiased;\n	-moz-osx-font-smoothing:grayscale\n}\n\n.grid .slot_social.twitter .twitter_fav_icon:before{\n	content:\"\";\n	font-family:'dsquared-icons';\n	speak:none;\n	font-style:normal;\n	font-weight:normal;\n	font-variant:normal;\n	text-transform:none;\n	line-height:1;\n	-webkit-font-smoothing:antialiased;\n	-moz-osx-font-smoothing:grayscale\n}\n\n.grid .slot_social.twitter .icon-instagram{\n	display:none\n}\n\n.grid .slot_social.twitter img{\n	display:none\n}\n\n.grid .slot_social.instagram .twitter-strip{\n	display:none\n}\n\n.grid .slot_social.instagram .social-inner{\n	padding:0;\n	line-height:0\n}\n\n.grid .slot_social.newsletter{\n	background-color:#fff\n}\n\n.grid .slot_social.newsletter .newsletter-title{\n	position:absolute;\n	top:25px;\n	left:28px;\n	font-size:14px;\n	font-family:\"HelveticaNeueW02-95Black\",Helvetica,Arial,sans-serif;\n	text-transform:uppercase\n}\n\n.ru .grid .slot_social.newsletter .newsletter-title,.RU .grid .slot_social.newsletter .newsletter-title{\n	font-family:\"HelveticaNeueW10-95Black\",Helvetica,Arial,sans-serif\n}\n\n.zh .grid .slot_social.newsletter .newsletter-title{\n	font-family:\"HelveticaNeueW10-95Black\",Helvetica,Arial,sans-serif\n}\n\n.jp .grid .slot_social.newsletter .newsletter-title,.JP .grid .slot_social.newsletter .newsletter-title{\n	font-family:\"Hiragino Kaku Gothic ProN\",Meiryo,\"MS PGothic\",Sans-serif;\n	font-weight:bold\n}\n\n.cn .grid .slot_social.newsletter .newsletter-title{\n	font-family:\"Microsoft YaHei\",\"Microsoft YaHei Regular\",Arial,sans-serif;\n	font-weight:bold\n}\n\n.grid .slot_social.newsletter .newsletter-title a{\n	color:#000\n}\n\n.grid .slot_social.newsletter .newsletter-description{\n	position:absolute;\n	top:50px;\n	left:28px;\n	font-size:14px;\n	line-height:22px;\n	font-family:\"Helvetica Neue LT W06 55 Roman\",Helvetica,Arial,sans-serif;\n	width:60%\n}\n\n.ru .grid .slot_social.newsletter .newsletter-description,.RU .grid .slot_social.newsletter .newsletter-description{\n	font-family:\"Helvetica Neue LT W06 55 Roman\",Helvetica,Arial,sans-serif\n}\n\n.zh .grid .slot_social.newsletter .newsletter-description{\n	font-family:\"Helvetica Neue LT W06 55 Roman\",Helvetica,Arial,sans-serif\n}\n\n.jp .grid .slot_social.newsletter .newsletter-description,.JP .grid .slot_social.newsletter .newsletter-description{\n	font-family:\"Hiragino Kaku Gothic ProN\",Meiryo,\"MS PGothic\",Sans-serif\n}\n\n.cn .grid .slot_social.newsletter .newsletter-description{\n	font-family:\"Microsoft YaHei\",\"Microsoft YaHei Regular\",Arial,sans-serif\n}\n\n.grid .slot_social.newsletter .newsletter-signup{\n	position:absolute;\n	left:28px;\n	top:115px;\n	border:1px solid #000;\n	padding:12px 30px;\n	text-transform:uppercase;\n	text-align:center;\n	font-size:12px;\n	line-height:12px;\n	letter-spacing:0.05em;\n	font-family:\"Helvetica Neue LT W06 55 Roman\",Helvetica,Arial,sans-serif\n}\n\n.ru .grid .slot_social.newsletter .newsletter-signup,.RU .grid .slot_social.newsletter .newsletter-signup{\n	font-family:\"Helvetica Neue LT W06 55 Roman\",Helvetica,Arial,sans-serif\n}\n\n.zh .grid .slot_social.newsletter .newsletter-signup{\n	font-family:\"Helvetica Neue LT W06 55 Roman\",Helvetica,Arial,sans-serif\n}\n\n.jp .grid .slot_social.newsletter .newsletter-signup,.JP .grid .slot_social.newsletter .newsletter-signup{\n	font-family:\"Hiragino Kaku Gothic ProN\",Meiryo,\"MS PGothic\",Sans-serif\n}\n\n.cn .grid .slot_social.newsletter .newsletter-signup{\n	font-family:\"Microsoft YaHei\",\"Microsoft YaHei Regular\",Arial,sans-serif\n}\n\n.grid .slot_social.newsletter .newsletter-signup:hover{\n	cursor:pointer\n}\n\n.grid .slot_video{\n	cursor:pointer\n}\n\n.grid .slot_video .overlay{\n	z-index:5;\n	-moz-transition-duration:0.3s;\n	-o-transition-duration:0.3s;\n	-webkit-transition-duration:0.3s;\n	transition-duration:0.3s;\n	-moz-transition-timing-function:ease-out;\n	-o-transition-timing-function:ease-out;\n	-webkit-transition-timing-function:ease-out;\n	transition-timing-function:ease-out;\n	-moz-transform:translate(0, 0);\n	-ms-transform:translate(0, 0);\n	-webkit-transform:translate(0, 0);\n	transform:translate(0, 0);\n	position:absolute;\n	bottom:0;\n	left:0;\n	right:0;\n	text-align:left\n}\n\n.grid .slot_video .videoContainer{\n	position:absolute;\n	top:0;\n	left:0;\n	z-index:7;\n	height:100%;\n	width:100%\n}\n\n.grid .slot_video .videoContainer.inactive .jwplayer{\n	opacity:0 !important\n}\n\n.grid .slot_video .videoContainer.inactive .black-overlay,.grid .slot_video .videoContainer.inactive .video-play{\n	display:none\n}\n\n.grid .slot_video .jwplayer{\n	height:100% !important\n}\n\n.grid .slot_video .jwplayer button{\n	margin:0px;\n	padding:0px\n}\n\n.grid .slot_video .video-overlay{\n	backface-visibility:hidden;\n	position:absolute;\n	left:0;\n	top:0;\n	width:100%;\n	z-index:2\n}\n\n.grid .slot_video .overlayVideo{\n	z-index:5\n}\n\n.grid .slot_video .video-play{\n	-moz-border-radius:50%;\n	-webkit-border-radius:50%;\n	border-radius:50%;\n	border:2px solid #fff;\n	color:#fff;\n	width:132px;\n	height:132px;\n	margin-top:-66px;\n	margin-left:-66px;\n	position:absolute;\n	font-size:9em;\n	top:50%;\n	left:50%;\n	z-index:6\n}\n\n.grid .slot_video .video-play:before{\n	content:\"\";\n	font-family:'dsquared-icons';\n	speak:none;\n	font-style:normal;\n	font-weight:normal;\n	font-variant:normal;\n	text-transform:none;\n	line-height:1;\n	-webkit-font-smoothing:antialiased;\n	-moz-osx-font-smoothing:grayscale\n}\n\n.grid .slot_video .video-play:before{\n	position:relative;\n	left:20px\n}\n\n.grid .slot_post .headline{\n	text-transform:capitalize;\n	display:block;\n	line-height:36px\n}\n\n.grid .promotional{\n	background-color:#4E4E4E\n}\n\n.grid .promotional .promotions{\n	color:#fff;\n	padding:5.7% 4.5%;\n	background-color:#4E4E4E;\n	max-height:100%\n}\n\n.grid .promotional .promotions .promotionList{\n	background-color:#4E4E4E;\n	margin-left:0px;\n	padding:0;\n	overflow:visible\n}\n\n.grid .promotional .promotions .promotionEntry{\n	margin-bottom:15px;\n	display:none\n}\n\n.grid .promotional .promotions .promotionEntry:first-child{\n	display:block\n}\n\n.grid .promotional .promotions .shortDescription{\n	font-family:\"HelveticaNeueW02-75Bold\",Helvetica,Arial,sans-serif;\n	font-size:10px;\n	line-height:10px;\n	margin:0 0 1.8% 0;\n	float:right;\n	text-transform:uppercase\n}\n\n.ru .grid .promotional .promotions .shortDescription,.RU .grid .promotional .promotions .shortDescription{\n	font-family:\"HelveticaNeueW10-75Bold\",Helvetica,Arial,sans-serif\n}\n\n.zh .grid .promotional .promotions .shortDescription{\n	font-family:\"HelveticaNeueW10-75Bold\",Helvetica,Arial,sans-serif\n}\n\n.jp .grid .promotional .promotions .shortDescription,.JP .grid .promotional .promotions .shortDescription{\n	font-family:\"Hiragino Kaku Gothic ProN\",Meiryo,\"MS PGothic\",Sans-serif;\n	font-weight:bold\n}\n\n.cn .grid .promotional .promotions .shortDescription{\n	font-family:\"Microsoft YaHei\",\"Microsoft YaHei Regular\",Arial,sans-serif;\n	font-weight:bold\n}\n\n.grid .promotional .promotions .longDescription{\n	font-size:20px;\n	line-height:28px;\n	text-align:right;\n	width:100%\n}\n\n.grid .promo-with-img{\n	position:absolute;\n	bottom:0\n}\n\n.grid .promo-with-img .promotions,.grid .promo-with-img .promotionList{\n	background-color:transparent !important\n}\n\n.grid .videoContainer button{\n	margin:0px;\n	padding:0px\n}\n\n.grid .overlayContainer{\n	-moz-transition-duration:0.3s;\n	-o-transition-duration:0.3s;\n	-webkit-transition-duration:0.3s;\n	transition-duration:0.3s;\n	-webkit-transform:translateZ(0);\n	-moz-transform:translateZ(0);\n	-ms-transform:translateZ(0);\n	transform:translateZ(0);\n	background-image:url(data:image/svg+xml;\n	base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEwMCAxMDAiIHByZXNlcnZlQXNwZWN0UmF0aW89Im5vbmUiPjxsaW5lYXJHcmFkaWVudCBpZD0iaGF0MCIgZ3JhZGllbnRVbml0cz0ib2JqZWN0Qm91bmRpbmdCb3giIHgxPSI1MCUiIHkxPSIxMDAlIiB4Mj0iNTAlIiB5Mj0iLTEuNDIxMDg1NDcxNTIwMmUtMTQlIj4KPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzAwMCIgc3RvcC1vcGFjaXR5PSIwLjciLz4KPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjMDAwIiBzdG9wLW9wYWNpdHk9IjAiLz4KICAgPC9saW5lYXJHcmFkaWVudD4KCjxyZWN0IHg9IjAiIHk9IjAiIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIiBmaWxsPSJ1cmwoI2hhdDApIiAvPgo8L3N2Zz4=);\n	background-image:-moz-linear-gradient(bottom, rgba(0,0,0,0.7) 0%, transparent 100%);\n	background-image:-o-linear-gradient(bottom, rgba(0,0,0,0.7) 0%, transparent 100%);\n	background-image:-webkit-linear-gradient(bottom, rgba(0,0,0,0.7) 0%, transparent 100%);\n	background-image:linear-gradient(to top, rgba(0,0,0,0.7) 0%,rgba(0,0,0,0) 100%);\n	display:block;\n	padding:0 30px 30px 28px\n}\n\n.grid a,.grid .slot_video .overlay{\n	display:block;\n	color:#fff;\n	text-decoration:none;\n	text-align:left\n}\n\n.grid a .labeltop,.grid .slot_video .overlay .labeltop{\n	font-size:14px;\n	font-family:\"HelveticaNeueW02-95Black\",Helvetica,Arial,sans-serif;\n	text-transform:uppercase;\n	position:relative;\n	left:2px\n}\n\n.ru .grid a .labeltop,.RU .grid a .labeltop,.ru .grid .slot_video .overlay .labeltop,.RU .grid .slot_video .overlay .labeltop{\n	font-family:\"HelveticaNeueW10-95Black\",Helvetica,Arial,sans-serif\n}\n\n.zh .grid a .labeltop,.zh .grid .slot_video .overlay .labeltop{\n	font-family:\"HelveticaNeueW10-95Black\",Helvetica,Arial,sans-serif\n}\n\n.jp .grid a .labeltop,.JP .grid a .labeltop,.jp .grid .slot_video .overlay .labeltop,.JP .grid .slot_video .overlay .labeltop{\n	font-family:\"Hiragino Kaku Gothic ProN\",Meiryo,\"MS PGothic\",Sans-serif;\n	font-weight:bold\n}\n\n.cn .grid a .labeltop,.cn .grid .slot_video .overlay .labeltop{\n	font-family:\"Microsoft YaHei\",\"Microsoft YaHei Regular\",Arial,sans-serif;\n	font-weight:bold\n}\n\n.grid a .headline,.grid .slot_video .overlay .headline{\n	font-family:\"HelveticaNeueW02-45Light\",Helvetica,Arial,sans-serif;\n	font-size:40px;\n	line-height:36px;\n	position:relative\n}\n\n.ru .grid a .headline,.RU .grid a .headline,.ru .grid .slot_video .overlay .headline,.RU .grid .slot_video .overlay .headline{\n	font-family:\"HelveticaNeueW10-45Light\",Helvetica,Arial,sans-serif\n}\n\n.zh .grid a .headline,.zh .grid .slot_video .overlay .headline{\n	font-family:\"HelveticaNeueW10-45Light\",Helvetica,Arial,sans-serif\n}\n\n.jp .grid a .headline,.JP .grid a .headline,.jp .grid .slot_video .overlay .headline,.JP .grid .slot_video .overlay .headline{\n	font-family:\"Hiragino Kaku Gothic ProN\",Meiryo,\"MS PGothic\",Sans-serif\n}\n\n.cn .grid a .headline,.cn .grid .slot_video .overlay .headline{\n	font-family:\"Microsoft YaHei\",\"Microsoft YaHei Regular\",Arial,sans-serif\n}\n\n.grid a .headline p:first-child,.grid .slot_video .overlay .headline p:first-child{\n	position:relative;\n	top:15px\n}\n\n.grid a .headline p,.grid .slot_video .overlay .headline p{\n	line-height:46px\n}\n\n.grid .description{\n	display:block;\n	position:relative;\n	font-family:\"Helvetica Neue LT W06 55 Roman\",Helvetica,Arial,sans-serif;\n	font-size:14px;\n	left:2px;\n	line-height:22px\n}\n\n.ru .grid .description,.RU .grid .description{\n	font-family:\"Helvetica Neue LT W06 55 Roman\",Helvetica,Arial,sans-serif\n}\n\n.zh .grid .description{\n	font-family:\"Helvetica Neue LT W06 55 Roman\",Helvetica,Arial,sans-serif\n}\n\n.jp .grid .description,.JP .grid .description{\n	font-family:\"Hiragino Kaku Gothic ProN\",Meiryo,\"MS PGothic\",Sans-serif\n}\n\n.cn .grid .description{\n	font-family:\"Microsoft YaHei\",\"Microsoft YaHei Regular\",Arial,sans-serif\n}\n\n.grid .ctanewsletter{\n	text-decoration:none;\n	font-family:\"Helvetica Neue LT W06 55 Roman\",Helvetica,Arial,sans-serif;\n	-moz-box-sizing:content-box;\n	box-sizing:content-box;\n	font-size:12px;\n	background-color:#000;\n	color:#fff;\n	cursor:pointer;\n	border:none;\n	display:inline-block;\n	padding:20px 30px;\n	margin:20px 0;\n	width:auto;\n	line-height:inherit;\n	text-align:center;\n	text-transform:uppercase;\n	-moz-transition:color,background-color;\n	-o-transition:color,background-color;\n	-webkit-transition:color,background-color;\n	transition:color,background-color;\n	font-size:14px;\n	letter-spacing:0.05em;\n	left:2px;\n	padding:11px 28px;\n	line-height:14px;\n	margin:15px 0 0\n}\n\n.ru .grid .ctanewsletter,.RU .grid .ctanewsletter{\n	font-family:\"Helvetica Neue LT W06 55 Roman\",Helvetica,Arial,sans-serif\n}\n\n.zh .grid .ctanewsletter{\n	font-family:\"Helvetica Neue LT W06 55 Roman\",Helvetica,Arial,sans-serif\n}\n\n.jp .grid .ctanewsletter,.JP .grid .ctanewsletter{\n	font-family:\"Hiragino Kaku Gothic ProN\",Meiryo,\"MS PGothic\",Sans-serif\n}\n\n.cn .grid .ctanewsletter{\n	font-family:\"Microsoft YaHei\",\"Microsoft YaHei Regular\",Arial,sans-serif\n}\n\n.grid .ctanewsletter:hover,.grid .ctanewsletter:focus{\n	background-color:#000;\n	color:#fff;\n	text-decoration:none\n}\n\n.grid .ctanewsletter .icon{\n	display:none\n}\n\n.grid .ctanewsletter .text{\n	display:inline-block;\n	vertical-align:middle;\n	text-transform:uppercase;\n	letter-spacing:1px\n}\n\n.grid img{\n	width:100%\n}\n\n.grid a .labeltop,.grid a .headline,.grid .slot_text p,.grid .slot_social.is-twitter .social-inner,.grid .slot_social .newsletter-title,.grid .slot_social .newsletter-description{\n	-moz-transition-duration:0.3s;\n	-o-transition-duration:0.3s;\n	-webkit-transition-duration:0.3s;\n	transition-duration:0.3s;\n	-moz-transition-timing-function:ease-out;\n	-o-transition-timing-function:ease-out;\n	-webkit-transition-timing-function:ease-out;\n	transition-timing-function:ease-out;\n	-moz-transition-property:all;\n	-o-transition-property:all;\n	-webkit-transition-property:all;\n	transition-property:all\n}\n\n@media only screen and (max-width: 1024px){\n	.grid a .labeltop,.grid a .headline,.grid .slot_text p,.grid .slot_social.is-twitter .social-inner,.grid .slot_social .newsletter-title,.grid .slot_social .newsletter-description{\n		-moz-transition-duration:0.3s;\n		-o-transition-duration:0.3s;\n		-webkit-transition-duration:0.3s;\n		transition-duration:0.3s;\n		-moz-transition-timing-function:ease-out;\n		-o-transition-timing-function:ease-out;\n		-webkit-transition-timing-function:ease-out;\n		transition-timing-function:ease-out;\n		-moz-transition-property:all;\n		-o-transition-property:all;\n		-webkit-transition-property:all;\n		transition-property:all\n	}\n\n	.grid a .labeltop,.grid .slot_video .overlay .labeltop{\n		font-size:11px;\n		line-height:26px\n	}\n\n	.grid a .headline,.grid .slot_text p,.grid .slot_video .overlay .headline{\n		font-size:28px\n	}\n\n	.grid a .description{\n		font-size:11px;\n		line-height:18px\n	}\n\n	.grid .slot_text p{\n		line-height:20px;\n		font-size:12px\n	}\n\n	.grid .slot_social.newsletter .newsletter-title{\n		font-size:11px;\n		line-height:11px;\n		top:18px;\n		left:18px\n	}\n\n	.grid .slot_social.newsletter .newsletter-description{\n		font-size:12px;\n		line-height:18px;\n		left:18px;\n		top:35px\n	}\n\n	.grid .slot_social.newsletter .newsletter-signup{\n		left:18px;\n		top:85px;\n		padding:11px 30px\n	}\n\n	.grid .slot_social .twitter-strip .icon-twitter{\n		font-size:20px\n	}\n\n	.grid .slot_social .twitter-strip a{\n		font-size:14px\n	}\n\n	.grid .slot_social.twitter .social-inner{\n		font-size:12px;\n		line-height:20px;\n		padding:0 5% 0 20px\n	}\n\n	.grid .slot_social.twitter .social-inner .timePosted{\n		top:33px\n	}\n\n	.grid .slot_social.twitter .twitter_reply_icon,.grid .slot_social.twitter .twitter_retweet_icon,.grid .slot_social.twitter .twitter_fav_icon{\n		font-size:14px;\n		width:14px\n	}\n\n	.grid a .headline p:first-child,.grid .slot_video .overlay .headline p:first-child{\n		position:relative;\n		top:21px\n	}\n\n	.grid a .headline p:only-child{\n		top:0\n	}\n\n	.jp .grid .slot_social.newsletter #subscribeNewsletter{\n		top:105px\n	}\n\n}\n\n.jp .grid .slot_social.newsletter .newsletter-signup{\n	top:125px\n}\n\n.grid .slot_text.pressrelease strong .bodycopy,.grid .slot_text.longtext strong .bodycopy{\n	font-family:\"HelveticaNeueW02-95Black\",Helvetica,Arial,sans-serif !important\n}\n\n.grid .slot_text.pressrelease p,.grid .slot_text.longtext p{\n	color:#fff;\n	font-size:14px\n}\n\n.grid .slot_text.pressrelease .bodycopy,.grid .slot_text.longtext .bodycopy{\n	color:#fff;\n	font-size:14px\n}\n\n@media only screen and (max-width: 1445px){\n	.grid .slot_text.longtext strong .bodycopy{\n		font-family:\"HelveticaNeueW02-95Black\",Helvetica,Arial,sans-serif !important\n	}\n\n	.grid .slot_text.longtext p{\n		font-size:11px;\n		color:#fff\n	}\n\n	.grid .slot_text.longtext .bodycopy{\n		font-size:11px;\n		color:#fff\n	}\n\n}\n\n.redpromo .headline,.redpromo .description{\n	color:#FF3D3D\n}\n\n.redpromo .description{\n	display:inline\n}\n\n.redpromo .ctabutton{\n	text-decoration:none;\n	font-family:\"Helvetica Neue LT W06 55 Roman\",Helvetica,Arial,sans-serif;\n	-moz-box-sizing:content-box;\n	box-sizing:content-box;\n	font-size:12px;\n	background-color:#000;\n	color:#fff;\n	cursor:pointer;\n	border:none;\n	display:inline-block;\n	padding:20px 30px;\n	margin:20px 0;\n	width:auto;\n	line-height:inherit;\n	text-align:center;\n	text-transform:uppercase;\n	-moz-transition:color,background-color;\n	-o-transition:color,background-color;\n	-webkit-transition:color,background-color;\n	transition:color,background-color;\n	font-size:14px;\n	letter-spacing:0.05em;\n	left:2px;\n	padding:11px 28px;\n	line-height:14px;\n	margin:15px 0 0;\n	color:#FF3D3D;\n	text-align:center;\n	border:1px solid #FF3D3D;\n	background-color:transparent\n}\n\n.ru .redpromo .ctabutton,.RU .redpromo .ctabutton{\n	font-family:\"Helvetica Neue LT W06 55 Roman\",Helvetica,Arial,sans-serif\n}\n\n.zh .redpromo .ctabutton{\n	font-family:\"Helvetica Neue LT W06 55 Roman\",Helvetica,Arial,sans-serif\n}\n\n.jp .redpromo .ctabutton,.JP .redpromo .ctabutton{\n	font-family:\"Hiragino Kaku Gothic ProN\",Meiryo,\"MS PGothic\",Sans-serif\n}\n\n.cn .redpromo .ctabutton{\n	font-family:\"Microsoft YaHei\",\"Microsoft YaHei Regular\",Arial,sans-serif\n}\n\n.redpromo .ctabutton:hover,.redpromo .ctabutton:focus{\n	background-color:#000;\n	color:#fff;\n	text-decoration:none\n}\n\n.redpromo .ctabutton .icon{\n	display:none\n}\n\n.redpromo .ctabutton .text{\n	display:inline-block;\n	vertical-align:middle;\n	text-transform:uppercase;\n	letter-spacing:1px\n}\n\n.redpromo .ctabutton:hover,.redpromo .ctabutton:focus{\n	background-color:transparent;\n	color:#FF3D3D;\n	text-decoration:none\n}\n\n.bannerDept{\n	position:relative;\n	width:100%;\n	min-height:120px;\n	background:#222\n}\n\n.bannerDept img{\n	width:100%\n}\n\n.bannerDept .headline{\n	position:absolute;\n	bottom:24px;\n	left:2%;\n	color:#fff;\n	line-height:1\n}\n\n.bannerDept .headline .gender{\n	display:block;\n	font-family:\"HelveticaNeueW02-95Black\",Helvetica,Arial,sans-serif;\n	font-size:14px;\n	text-indent:0;\n	text-transform:uppercase\n}\n\n.ru .bannerDept .headline .gender,.RU .bannerDept .headline .gender{\n	font-family:\"HelveticaNeueW10-95Black\",Helvetica,Arial,sans-serif\n}\n\n.zh .bannerDept .headline .gender{\n	font-family:\"HelveticaNeueW10-95Black\",Helvetica,Arial,sans-serif\n}\n\n.jp .bannerDept .headline .gender,.JP .bannerDept .headline .gender{\n	font-family:\"Hiragino Kaku Gothic ProN\",Meiryo,\"MS PGothic\",Sans-serif;\n	font-weight:bold\n}\n\n.cn .bannerDept .headline .gender{\n	font-family:\"Microsoft YaHei\",\"Microsoft YaHei Regular\",Arial,sans-serif;\n	font-weight:bold\n}\n\n.bannerDept .headline .dept li.crumb{\n	display:none\n}\n\n.bannerDept .headline .dept li.crumb.leaf{\n	display:block;\n	font-family:\"HelveticaNeueW02-45Light\",Helvetica,Arial,sans-serif;\n	font-size:60px;\n	text-indent:-3px\n}\n\n.ru .bannerDept .headline .dept li.crumb.leaf,.RU .bannerDept .headline .dept li.crumb.leaf{\n	font-family:\"HelveticaNeueW10-45Light\",Helvetica,Arial,sans-serif\n}\n\n.zh .bannerDept .headline .dept li.crumb.leaf{\n	font-family:\"HelveticaNeueW10-45Light\",Helvetica,Arial,sans-serif\n}\n\n.jp .bannerDept .headline .dept li.crumb.leaf,.JP .bannerDept .headline .dept li.crumb.leaf{\n	font-family:\"Hiragino Kaku Gothic ProN\",Meiryo,\"MS PGothic\",Sans-serif\n}\n\n.cn .bannerDept .headline .dept li.crumb.leaf{\n	font-family:\"Microsoft YaHei\",\"Microsoft YaHei Regular\",Arial,sans-serif\n}\n\nbody.jp .bannerDept .headline .dept li.crumb.leaf{\n	font-size:50px\n}\n\n.bannerDept .headline .dept li.crumb.leaf a{\n	color:#fff;\n	cursor:default;\n	pointer-events:none\n}\n\n.bannerDept .headline .dept li.crumb.leaf a:hover,.bannerDept .headline .dept li.crumb.leaf a:visited,.bannerDept .headline .dept li.crumb.leaf a:focus{\n	text-decoration:none\n}\n\n@media (max-width: 1279px){\n	.bannerDept{\n		min-height:100px\n	}\n\n	.bannerDept .headline{\n		bottom:14px\n	}\n\n	.bannerDept .headline .gender{\n		font-size:11px\n	}\n\n	.bannerDept .headline .dept{\n		font-size:45px\n	}\n\n}\n\n#container main{\n	margin-left:0;\n	position:relative\n}\n\n.switchSeason{\n	position:absolute;\n	margin-left:2%;\n	line-height:60px;\n	cursor:pointer\n}\n\n.switchSeason li{\n	display:inline-block;\n	padding-right:15px;\n	text-transform:uppercase\n}\n\n.switchSeason li.selected span{\n	padding-bottom:3px;\n	border-bottom:1px solid #fff\n}\n\n.overlayFilters{\n	position:absolute;\n	width:100%;\n	height:100%;\n	z-index:1;\n	background:#000;\n	filter:progid:DXImageTransform.Microsoft.Alpha(Opacity=40);\n	opacity:0.4;\n	display:none\n}\n\n.refinementsBar{\n	width:100%;\n	color:#fff;\n	position:relative\n}\n\n.refinementsBar:before,.refinementsBar:after{\n	content:' ';\n	display:table\n}\n\n.refinementsBar:after{\n	clear:both\n}\n\n.refinementsBar .sortRules{\n	overflow:hidden;\n	position:absolute;\n	right:0;\n	top:60px;\n	height:0;\n	width:25%;\n	background:#4E4E4E;\n	z-index:1\n}\n\n.refinementsBar .sortRules .list{\n	margin:0\n}\n\n.refinementsBar .sortRules .fieldValue{\n	border:0;\n	padding:0;\n	max-width:none;\n	height:auto\n}\n\n.refinementsBar .sortRules .listTitle{\n	display:none\n}\n\n.refinementsBar .sortRules ul{\n	overflow:visible;\n	height:auto;\n	margin:40px 0 0 15%\n}\n\n.refinementsBar .sortRules li{\n	display:block;\n	margin:0 15% 22px;\n	border:0;\n	background:transparent;\n	color:#fff;\n	text-transform:uppercase;\n	line-height:1\n}\n\n.refinementsBar .sortRules li:first-child{\n	margin-top:40px\n}\n\n.refinementsBar .sortRules li a{\n	color:#fff\n}\n\n.refinementsBar .sortRules li a:hover,.refinementsBar .sortRules li a:visited,.refinementsBar .sortRules li a:focus{\n	text-decoration:none\n}\n\n.refinementsBar .sortRules li[data-ytos-list-option-value=\"\"],.refinementsBar .sortRules li[data-ytos-option-value=\"\"]{\n	display:none\n}\n\nbody.wx .refinementsBar .sortRules li[data-ytos-list-option-value=\"PriceAscending\"],body.cn .refinementsBar .sortRules li[data-ytos-list-option-value=\"PriceAscending\"],body.wx .refinementsBar .sortRules li[data-ytos-list-option-value=\"PriceDescending\"],body.cn .refinementsBar .sortRules li[data-ytos-list-option-value=\"PriceDescending\"]{\n	display:none\n}\n\n.refinementsBar .sortRules li:hover{\n	background:transparent\n}\n\n.refinementsBar .sortRules li:hover span,.refinementsBar .sortRules li.selected span{\n	padding-bottom:5px;\n	border-bottom:1px solid #fff;\n	background:transparent\n}\n\n.refinementsBar .filterBar{\n	width:100%;\n	height:60px;\n	line-height:60px;\n	background-color:#341e6e;\n}\n\n.refinementsBar .filterBar:before,.refinementsBar .filterBar:after{\n	content:' ';\n	display:table\n}\n\n.refinementsBar .filterBar:after{\n	clear:both\n}\n\n.refinementsBar .title{\n	font-size:25px;\n	font-family:\"HelveticaNeueW02-45Light\",Helvetica,Arial,sans-serif;\n	padding:12px 0;\n	margin-top:8px\n}\n\n.ru .refinementsBar .title,.RU .refinementsBar .title{\n	font-family:\"HelveticaNeueW10-45Light\",Helvetica,Arial,sans-serif\n}\n\n.zh .refinementsBar .title{\n	font-family:\"HelveticaNeueW10-45Light\",Helvetica,Arial,sans-serif\n}\n\n.jp .refinementsBar .title,.JP .refinementsBar .title{\n	font-family:\"Hiragino Kaku Gothic ProN\",Meiryo,\"MS PGothic\",Sans-serif\n}\n\n.cn .refinementsBar .title{\n	font-family:\"Microsoft YaHei\",\"Microsoft YaHei Regular\",Arial,sans-serif\n}\n\n.refinementsBar>.title{\n	display:block;\n	text-align:center\n}\n\n.refinementsBar .filtersPanel{\n	position:absolute;\n	top:60px;\n	width:100%;\n	height:0;\n	overflow:hidden;\n	z-index:74;\n	background-color:#4E4E4E\n}\n\n.refinementsBar .refinementsContainer{\n	float:right;\n	padding:0 2%\n}\n\n.refinementsBar .refinementsContainer .closeBtn{\n	position:absolute;\n	top:28px;\n	right:2%;\n	font-size:30px;\n	color:#343434;\n	cursor:pointer\n}\n\n.refinementsBar .refinementsContainer .closeBtn:before{\n	content:\"\";\n	font-family:'dsquared-icons';\n	speak:none;\n	font-style:normal;\n	font-weight:normal;\n	font-variant:normal;\n	text-transform:none;\n	line-height:1;\n	-webkit-font-smoothing:antialiased;\n	-moz-osx-font-smoothing:grayscale\n}\n\n.refinementsBar .refinement{\n	display:inline-block;\n	vertical-align:top;\n	*vertical-align:auto;\n	*zoom:1;\n	*display:inline;\n	padding-bottom:54px;\n	padding-right:10px\n}\n\n.refinementsBar .refinement:last-child{\n	padding-right:0\n}\n\n.refinementsBar .refinement .refinementmicro,.refinementsBar .refinement .refinementcolor{\n	width:225px\n}\n\n.refinementsBar .refinement .refinementsize{\n	width:145px\n}\n\n.refinementsBar.denimGuide .refinementmicro,.refinementsBar.denimGuide .refinementfabric,.refinementsBar.denimGuide .refinementwashtype,.refinementsBar.denimGuide .refinementlook{\n	width:225px\n}\n\n.refinementsBar.denimGuide .refinementcolor{\n	width:145px\n}\n\n.refinementsBar.denimGuide .refinementsize{\n	width:96px\n}\n\n.refinementsBar .refinements li{\n	cursor:pointer;\n	padding:4px 0;\n	text-transform:uppercase;\n	position:relative;\n	margin-left:30px\n}\n\n.refinementsBar .refinements li[data-ytos-button=\"viewall\"],.refinementsBar .refinements li.Macro>a{\n	display:none\n}\n\n.refinementsBar .refinements li.Macro{\n	padding:0\n}\n\n.refinementsBar .refinements a{\n	color:#fff;\n	line-height:1.8\n}\n\n.refinementsBar .refinements a .flag{\n	width:18px;\n	height:18px;\n	display:inline-block;\n	float:left;\n	border:1px solid;\n	margin-right:10px;\n	position:absolute;\n	left:-30px\n}\n\n.refinementsBar .refinements a:hover{\n	text-decoration:none\n}\n\n.refinementsBar .refinements a:hover .flag{\n	background-color:#fff\n}\n\n.refinementsBar .refinements .disabled{\n	cursor:default;\n	filter:progid:DXImageTransform.Microsoft.Alpha(Opacity=50);\n	opacity:0.5;\n	pointer-events:none\n}\n\n.refinementsBar .refinements .disabled a{\n	cursor:default\n}\n\n.refinementsBar .refinements .disabled a:hover .flag{\n	background-color:transparent\n}\n\n.refinementsBar .selected>a .flag{\n	background-color:#fff\n}\n\n.refinementsBar button.openBtn,.refinementsBar button.sortBtn,.refinementsBar button.resetFilters{\n	display:block;\n	margin:0 2% 0 0;\n	float:right;\n	background:none;\n	padding:0;\n	height:60px;\n	text-align:right\n}\n\n.refinementsBar button.resetFilters{\n	border:1px solid #fff;\n	padding:0 9px;\n	height:30px;\n	line-height:30px;\n	margin-top:14px\n}\n\n.refinementsBar button.sortBtn{\n	margin-right:30px\n}\n\n.refinementsBar .openBtn .icon{\n	display:inline-block;\n	font-size:9px;\n	margin-left:3px\n}\n\n.refinementsBar .openBtn .icon:before{\n	content:\"\";\n	font-family:'dsquared-icons';\n	speak:none;\n	font-style:normal;\n	font-weight:normal;\n	font-variant:normal;\n	text-transform:none;\n	line-height:1;\n	-webkit-font-smoothing:antialiased;\n	-moz-osx-font-smoothing:grayscale\n}\n\n.refinementsBar .sortBtn .icon{\n	display:inline-block;\n	font-size:9px;\n	margin-left:3px\n}\n\n.refinementsBar .sortBtn .icon:before{\n	content:\"\";\n	font-family:'dsquared-icons';\n	speak:none;\n	font-style:normal;\n	font-weight:normal;\n	font-variant:normal;\n	text-transform:none;\n	line-height:1;\n	-webkit-font-smoothing:antialiased;\n	-moz-osx-font-smoothing:grayscale\n}\n\n.refinementsBar .sortBtn.closed .icon:before{\n	content:\"\";\n	font-family:'dsquared-icons';\n	speak:none;\n	font-style:normal;\n	font-weight:normal;\n	font-variant:normal;\n	text-transform:none;\n	line-height:1;\n	-webkit-font-smoothing:antialiased;\n	-moz-osx-font-smoothing:grayscale\n}\n\n.refinementsBar.closed .openBtn .icon:before{\n	content:\"\";\n	font-family:'dsquared-icons';\n	speak:none;\n	font-style:normal;\n	font-weight:normal;\n	font-variant:normal;\n	text-transform:none;\n	line-height:1;\n	-webkit-font-smoothing:antialiased;\n	-moz-osx-font-smoothing:grayscale\n}\n\n.refinementsBar .recapFilters{\n	display:none\n}\n\n.refinementsBar .recapFilters:before,.refinementsBar .recapFilters:after{\n	content:' ';\n	display:table\n}\n\n.refinementsBar .recapFilters:after{\n	clear:both\n}\n\n.refinementsBar .recapFilters.open{\n	display:block\n}\n\n.refinementsBar .recapFilters .filters{\n	float:left\n}\n\n.refinementsBar .recapFilters .recap{\n	display:inline-block;\n	vertical-align:top;\n	*vertical-align:auto;\n	*zoom:1;\n	*display:inline;\n	padding:12px;\n	margin-right:12px;\n	background-color:#343434;\n	cursor:pointer\n}\n\n.refinementsBar .recapFilters .recap .delete{\n	margin-right:12px\n}\n\n@media (max-width: 1279px){\n	.refinementsBar .refinement .title{\n		font-size:20px\n	}\n\n	.refinementsBar .refinement li{\n		padding:10px 0\n	}\n\n	.refinementsBar .refinement a{\n		font-size:11px\n	}\n\n	.refinementsBar.denimGuide .refinementsContainer{\n		width:96%\n	}\n\n	.refinementsBar.denimGuide .refinement{\n		width:16%;\n		padding-right:2%\n	}\n\n	.refinementsBar.denimGuide .refinement.size{\n		width:8%;\n		padding-right:0\n	}\n\n	.refinementsBar.denimGuide .refinement .refinementcolor,.refinementsBar.denimGuide .refinement .refinementsize,.refinementsBar.denimGuide .refinement .refinementmicro,.refinementsBar.denimGuide .refinement .refinementfabric,.refinementsBar.denimGuide .refinement .refinementwashtype,.refinementsBar.denimGuide .refinement .refinementlook{\n		width:100%\n	}\n\n}\n\n.products>.loadingAnimation{\n	position:relative;\n	height:32px;\n	overflow:hidden;\n	*zoom:1\n}\n\n.textSearchTotalResults{\n	height:60px;\n	width:100%;\n	line-height:60px;\n	color:#fff;\n	background:#343434;\n	font-size:16px\n}\n\n.textSearchTotalResults .textSearchTotalResultsLabel{\n	margin-left:2%\n}\n\n.textSearchTotalResults .totalResults+.textSearchTotalResultsLabel{\n	margin-left:0\n}\n\n.textSearchTotalResults .totalResults{\n	margin-left:2%;\n	display:inline\n}\n\n#searchProducts{\n	position:relative;\n	width:100%;\n	overflow:hidden\n}\n\n#searchProducts .quickBuyButton{\n	display:none;\n	filter:progid:DXImageTransform.Microsoft.Alpha(Opacity=0);\n	opacity:0\n}\n\n#searchProducts a{\n	text-decoration:none\n}\n\n#searchProducts .even .resultBar{\n	background:#767676\n}\n\n#searchProducts .odd .resultBar{\n	background:#b9b9b9\n}\n\n#searchProducts .resultBar{\n	position:relative;\n	height:43px;\n	line-height:1;\n	padding:25px 2%\n}\n\n#searchProducts .resultBar .innerBar{\n	float:left\n}\n\n#searchProducts .resultBar .innerBar>span{\n	color:#fff;\n	display:block\n}\n\n#searchProducts .resultBar .button{\n	float:right;\n	margin:14px 0 1px 0;\n	padding:0;\n	background:none;\n	border-bottom:1px dotted #fff\n}\n\n#searchProducts .labelSearch{\n	font-size:11px;\n	text-transform:uppercase;\n	font-family:\"HelveticaNeueW02-95Black\",Helvetica,Arial,sans-serif\n}\n\n.ru #searchProducts .labelSearch,.RU #searchProducts .labelSearch{\n	font-family:\"HelveticaNeueW10-95Black\",Helvetica,Arial,sans-serif\n}\n\n.zh #searchProducts .labelSearch{\n	font-family:\"HelveticaNeueW10-95Black\",Helvetica,Arial,sans-serif\n}\n\n.jp #searchProducts .labelSearch,.JP #searchProducts .labelSearch{\n	font-family:\"Hiragino Kaku Gothic ProN\",Meiryo,\"MS PGothic\",Sans-serif;\n	font-weight:bold\n}\n\n.cn #searchProducts .labelSearch{\n	font-family:\"Microsoft YaHei\",\"Microsoft YaHei Regular\",Arial,sans-serif;\n	font-weight:bold\n}\n\n#searchProducts .countResult{\n	font-size:25px;\n	font-family:\"HelveticaNeueW02-45Light\",Helvetica,Arial,sans-serif\n}\n\n.ru #searchProducts .countResult,.RU #searchProducts .countResult{\n	font-family:\"HelveticaNeueW10-45Light\",Helvetica,Arial,sans-serif\n}\n\n.zh #searchProducts .countResult{\n	font-family:\"HelveticaNeueW10-45Light\",Helvetica,Arial,sans-serif\n}\n\n.jp #searchProducts .countResult,.JP #searchProducts .countResult{\n	font-family:\"Hiragino Kaku Gothic ProN\",Meiryo,\"MS PGothic\",Sans-serif\n}\n\n.cn #searchProducts .countResult{\n	font-family:\"Microsoft YaHei\",\"Microsoft YaHei Regular\",Arial,sans-serif\n}\n\n#searchProducts .products{\n	position:relative;\n	width:75%;\n	margin-left:25%\n}\n\n#searchProducts .item{\n	width:33.3%;\n	float:left;\n	position:relative;\n	list-style:none;\n	min-height:200px\n}\n\n#searchProducts .item:last-child{\n	overflow:hidden\n}\n\n#searchProducts .item .loadingAnimation{\n	width:100%;\n	bottom:0;\n	position:absolute;\n	top:inherit\n}\n\n#searchProducts .lazySearch{\n	display:none\n}\n\n#searchProducts .grid{\n	width:75.1%;\n	left:25%;\n	overflow:visible\n}\n\n#searchProducts .grid .item{\n	float:none;\n	position:absolute\n}\n\n#searchProducts .grid img{\n	width:100%\n}\n\n#searchProducts .grid .overlayItem .overlay{\n	height:100%\n}\n\n#searchProducts .grid .slot{\n	overflow:visible\n}\n\n#searchProducts.textSearch{\n	width:100%;\n	margin-left:0\n}\n\n#searchProducts.textSearch ul{\n	overflow:hidden;\n	*zoom:1\n}\n\n#searchProducts.textSearch .showMore{\n	margin-bottom:20px;\n	text-align:center;\n	text-transform:uppercase;\n	font-size:14px;\n	cursor:pointer\n}\n\n#searchProducts.textSearch .showMore .textShow{\n	border-bottom:1px dotted #000\n}\n\n#searchProducts.textSearch .products{\n	width:100%;\n	margin-left:0\n}\n\n#searchProducts.textSearch .item img.lazySearch{\n	display:block\n}\n\n#searchProducts.textSearch .item{\n	position:relative;\n	width:25%;\n	list-style:none;\n	display:table-cell;\n	overflow:visible\n}\n\n#searchProducts.textSearch .item:last-child{\n	overflow:hidden\n}\n\n#searchProducts.textSearch .item.hide img{\n	display:none\n}\n\n#searchProducts.textSearch .containerResults.open .item{\n	display:list-item\n}\n\n#searchProducts.textSearch .experienceResult .articleTemplate,#searchProducts.textSearch .experienceResult .videoTemplate{\n	display:none\n}\n\n#searchProducts.textSearch .experienceResult img{\n	width:100%;\n	height:100%;\n	cursor:pointer\n}\n\n#searchProducts.textSearch .experienceResult h2{\n	text-transform:none;\n	color:#000;\n	font-family:\"Helvetica Neue LT W06 55 Roman\",Helvetica,Arial,sans-serif;\n	padding:0 30px 0;\n	font-size:13px\n}\n\n.ru #searchProducts.textSearch .experienceResult h2,.RU #searchProducts.textSearch .experienceResult h2{\n	font-family:\"Helvetica Neue LT W06 55 Roman\",Helvetica,Arial,sans-serif\n}\n\n.zh #searchProducts.textSearch .experienceResult h2{\n	font-family:\"Helvetica Neue LT W06 55 Roman\",Helvetica,Arial,sans-serif\n}\n\n.jp #searchProducts.textSearch .experienceResult h2,.JP #searchProducts.textSearch .experienceResult h2{\n	font-family:\"Hiragino Kaku Gothic ProN\",Meiryo,\"MS PGothic\",Sans-serif\n}\n\n.cn #searchProducts.textSearch .experienceResult h2{\n	font-family:\"Microsoft YaHei\",\"Microsoft YaHei Regular\",Arial,sans-serif\n}\n\n#searchProducts.textSearch .experienceResult .videoBox{\n	position:relative;\n	cursor:pointer\n}\n\n#searchProducts.textSearch .experienceResult .videoBox.portrait .icon{\n	top:39%\n}\n\n#searchProducts.textSearch .experienceResult .videoBox .video-play{\n	-moz-border-radius:50%;\n	-webkit-border-radius:50%;\n	border-radius:50%;\n	border:2px solid #fff;\n	color:#fff;\n	width:116px;\n	height:116px;\n	margin-top:-60px;\n	margin-left:-60px;\n	position:absolute;\n	font-size:8em;\n	top:50%;\n	left:50%;\n	z-index:3\n}\n\n#searchProducts.textSearch .experienceResult .videoBox .video-play:before{\n	content:\"\";\n	font-family:'dsquared-icons';\n	speak:none;\n	font-style:normal;\n	font-weight:normal;\n	font-variant:normal;\n	text-transform:none;\n	line-height:1;\n	-webkit-font-smoothing:antialiased;\n	-moz-osx-font-smoothing:grayscale\n}\n\n#searchProducts.textSearch .experienceResult .videoBox .video-play:before{\n	position:relative;\n	left:16px\n}\n\n#searchProducts.textSearch .experienceResult .videoBox .video-play:hover{\n	-moz-transition-duration:0.3s;\n	-o-transition-duration:0.3s;\n	-webkit-transition-duration:0.3s;\n	transition-duration:0.3s;\n	background:#fff;\n	color:#000\n}\n\n#searchProducts.textSearch .experienceResult .singleNews{\n	margin-bottom:20px\n}\n\nhtml.ie8 #searchProducts .item .topOverlayItem,html.ie8 #searchProducts .item .bottomOverlay{\n	filter:progid:DXImageTransform.Microsoft.Alpha(Opacity=0);\n	opacity:0\n}\n\nhtml.ie8 #searchProducts .item:hover .topOverlayItem,html.ie8 #searchProducts .item:hover .bottomOverlay{\n	filter:progid:DXImageTransform.Microsoft.Alpha(enabled=false);\n	opacity:1\n}\n\nhtml.no-cssanimations #searchProducts .item:hover .overlayItem,html.touch #searchProducts .item:hover .overlayItem{\n	filter:progid:DXImageTransform.Microsoft.Alpha(Opacity=0);\n	opacity:0\n}\n\nhtml.touch #searchProducts .item.opened .overlayItem{\n	filter:progid:DXImageTransform.Microsoft.Alpha(enabled=false);\n	opacity:1\n}\n\nhtml.ie8 #searchProducts .item.opened .topOverlayItem,html.ie8 #searchProducts .item.opened .bottomOverlay{\n	filter:progid:DXImageTransform.Microsoft.Alpha(enabled=false);\n	opacity:1\n}\n\nhtml.touch #searchProducts .item.opened .topOverlayItem,html.touch #searchProducts .item.opened .selectSize,html.touch #searchProducts .item.opened button{\n	display:block\n}\n\n#searchProducts .exclusive{\n	position:absolute;\n	bottom:0;\n	left:0;\n	width:100%;\n	text-align:center;\n	padding:8px 0;\n	font-size:14px;\n	font-family:\"HelveticaNeueW02-75Bold\",Helvetica,Arial,sans-serif;\n	color:#fff;\n	-moz-transition:opacity 0.5s ease-in-out;\n	-o-transition:opacity 0.5s ease-in-out;\n	-webkit-transition:opacity 0.5s ease-in-out;\n	transition:opacity 0.5s ease-in-out;\n	text-transform:uppercase;\n	background:#888;\n	background:rgba(0,0,0,0.4)\n}\n\n.ru #searchProducts .exclusive,.RU #searchProducts .exclusive{\n	font-family:\"HelveticaNeueW10-75Bold\",Helvetica,Arial,sans-serif\n}\n\n.zh #searchProducts .exclusive{\n	font-family:\"HelveticaNeueW10-75Bold\",Helvetica,Arial,sans-serif\n}\n\n.jp #searchProducts .exclusive,.JP #searchProducts .exclusive{\n	font-family:\"Hiragino Kaku Gothic ProN\",Meiryo,\"MS PGothic\",Sans-serif;\n	font-weight:bold\n}\n\n.cn #searchProducts .exclusive{\n	font-family:\"Microsoft YaHei\",\"Microsoft YaHei Regular\",Arial,sans-serif;\n	font-weight:bold\n}\n\n#searchProducts .exclusive .label{\n	padding:0 8px\n}\n\n#searchProducts .overlayItem{\n	filter:progid:DXImageTransform.Microsoft.Alpha(Opacity=0);\n	opacity:0;\n	width:100%;\n	height:100%;\n	position:absolute;\n	top:0;\n	left:0;\n	transition: all 400ms;\n}\n\n#searchProducts .overlayItem:hover{\n	filter:progid:DXImageTransform.Microsoft.Alpha(Opacity=100);\n	opacity: 1;\n}\n\n#searchProducts .overlayItem .overlay{\n	height:100%;\n	width:100%;\n	background:#343434;\n	filter:progid:DXImageTransform.Microsoft.Alpha(Opacity=40);\n	opacity:0.4\n}\n\n#searchProducts .overlayItem .overlay a{\n	width:100%;\n	height:100%;\n	display:inline-block\n}\n\n#searchProducts .topOverlayItem{\n	position:absolute;\n	top:30px;\n	left:30px;\n	margin-right:30px;\n	text-align:left\n}\n\n#searchProducts .bottomOverlay{\n	position:absolute;\n	bottom:30px;\n	left:30px;\n	margin-right:30px\n}\n\n#searchProducts .Title{\n	font-family:\"HelveticaNeueW02-45Light\",Helvetica,Arial,sans-serif;\n	color:#fff;\n	font-size:30px;\n	line-height:1\n}\n\n.ru #searchProducts .Title,.RU #searchProducts .Title{\n	font-family:\"HelveticaNeueW10-45Light\",Helvetica,Arial,sans-serif\n}\n\n.zh #searchProducts .Title{\n	font-family:\"HelveticaNeueW10-45Light\",Helvetica,Arial,sans-serif\n}\n\n.jp #searchProducts .Title,.JP #searchProducts .Title{\n	font-family:\"Hiragino Kaku Gothic ProN\",Meiryo,\"MS PGothic\",Sans-serif\n}\n\n.cn #searchProducts .Title{\n	font-family:\"Microsoft YaHei\",\"Microsoft YaHei Regular\",Arial,sans-serif\n}\n\n#searchProducts .priceUpdater{\n	margin-top:5px;\n	text-align:left;\n	font-size:14px\n}\n\n#searchProducts .priceUpdater .price{\n	color:#fff\n}\n\n#searchProducts button.addItemToWishList{\n	position:relative;\n	background:transparent;\n	text-transform:uppercase;\n	text-align:left;\n	padding:10px 10px 0 0;\n	line-height:1.8;\n	margin:0\n}\n\nhtml.ie8 #searchProducts button.addItemToWishList{\n	position:static\n}\n\n#searchProducts button.addItemToWishList.disabled{\n	filter:progid:DXImageTransform.Microsoft.Alpha(Opacity=50);\n	opacity:0.5\n}\n\n#searchProducts button.addItemToWishList .icon{\n	display:inline-block;\n	font-size:24px;\n	padding-left:1px\n}\n\n#searchProducts button.addItemToWishList .icon:before{\n	content:\"\";\n	font-family:'dsquared-icons';\n	speak:none;\n	font-style:normal;\n	font-weight:normal;\n	font-variant:normal;\n	text-transform:none;\n	line-height:1;\n	-webkit-font-smoothing:antialiased;\n	-moz-osx-font-smoothing:grayscale\n}\n\n#searchProducts button.addItemToWishList .label{\n	font-size:12px;\n	margin-left:4px;\n	vertical-align:top;\n	line-height:2\n}\n\n#searchProducts button.addItem{\n	position:relative;\n	margin-top:0;\n	margin-right:30px;\n	margin-bottom:0;\n	padding:12px 30px;\n	text-transform:uppercase;\n	background:#fff;\n	color:#000;\n	border:1px solid #fff;\n	font-size:12px;\n	line-height:1\n}\n\nhtml.ie8 #searchProducts button.addItem{\n	position:static\n}\n\n#searchProducts button.addItem.disabled{\n	background:transparent;\n	color:#fff\n}\n\nhtml.touch #searchProducts button.addItem:hover{\n	background:transparent;\n	border-color:#fff\n}\n\nhtml.touch #searchProducts .topOverlayItem,html.touch #searchProducts .selectSize{\n	display:none\n}\n\n#searchProducts .selectSize{\n	text-align:left;\n	font-size:14px\n}\n\n#searchProducts .selectSize .selectionTitle{\n	color:#fff;\n	margin-bottom:12px\n}\n\n#searchProducts .selectSize .selectionLabel{\n	display:none\n}\n\n#searchProducts .selectSize li{\n	line-height:33px;\n	width:32px;\n	height:32px;\n	border:1px solid #fff;\n	display:inline-block;\n	text-align:center;\n	color:#fff;\n	cursor:pointer;\n	margin:0 6px 10px 0\n}\n\n#searchProducts .selectSize li:hover,#searchProducts .selectSize li.selected{\n	background:#fff !important;\n	color:#000\n}\n\n#searchProducts .selectSize .hasOneSelection li{\n	width:auto;\n	padding:0 8px;\n	min-width:16px\n}\n\n#searchProducts .selectSize .description{\n	line-height:33px;\n	left:0\n}\n\n#searchProducts .selectionError{\n	visibility:hidden;\n	color:red\n}\n\n#searchProducts .selectionError.active{\n	visibility:visible\n}\n\n#searchProducts .selectColor{\n	display:none\n}\n\n#searchProducts .image{\n	width:100%\n}\n\n#searchProducts .image img{\n	width:100%\n}\n\n#searchProducts .image img.secondImage{\n	position:absolute;\n	top:0;\n	left:0;\n	filter:progid:DXImageTransform.Microsoft.Alpha(Opacity=0);\n	opacity:0\n}\n\n#searchProducts .slot_image img{\n	width:100%\n}\n\n#searchProducts .soldOutMessage{\n	text-transform:uppercase;\n	background:transparent;\n	color:#fff;\n	padding:12px 30px;\n	border:1px solid #fff\n}\n\n@media (max-width: 1279px){\n	#searchProducts .exclusive{\n		padding:5px 0;\n		font-size:11px\n	}\n\n	#searchProducts .exclusive .label{\n		padding:0 5px\n	}\n\n	#searchProducts .Title{\n		font-size:20px\n	}\n\n	#searchProducts .topOverlayItem{\n		top:18px;\n		left:18px;\n		margin-right:18px\n	}\n\n	#searchProducts .bottomOverlay{\n		bottom:18px;\n		left:18px;\n		margin-right:18px\n	}\n\n	#searchProducts .selectSize .selectionTitle{\n		margin-bottom:6px\n	}\n\n	#searchProducts .selectSize li{\n		font-size:12px;\n		margin:0 1px 5px 0\n	}\n\n	#searchProducts button.addItem,#searchProducts .soldOutMessage{\n		padding:9px\n	}\n\n}\n\n#items{\n	z-index:1\n}\n\n#items .quickBuyButton{\n	position:absolute;\n	top:12px;\n	left:12px;\n	display:block;\n	z-index:3\n}\n\n#items .secondImage{\n	position:absolute;\n	top:0;\n	left:0;\n	display:none;\n	z-index:1\n}\n\n#items img{\n	width:100%;\n	height:auto\n}\n\n#items a{\n	display:block;\n	position:absolute;\n	z-index:2;\n	top:0;\n	left:0;\n	width:100%;\n	height:100%\n}\n\n#items a>.text{\n	display:table;\n	position:absolute;\n	bottom:0;\n	left:0;\n	width:100%;\n	height:40px\n}\n\n#items a>.text>span{\n	display:table-cell;\n	vertical-align:middle;\n	text-align:center\n}\n\n#items .priceUpdater{\n	position:absolute;\n	bottom:50px;\n	width:100%\n}\n\n#items .item{\n	vertical-align:top;\n	position:relative;\n	text-align:center;\n	width:100%;\n	height:auto;\n	padding-bottom:80px;\n	float:left\n}\n\n@media screen and (min-width: 0px){\n	#items .item{\n		width:100%\n	}\n\n}\n\n@media screen and (min-width: 272px){\n	#items .item{\n		width:50%\n	}\n\n}\n\n@media screen and (min-width: 544px){\n	#items .item{\n		width:33.33333%\n	}\n\n}\n\n@media screen and (min-width: 816px){\n	#items .item{\n		width:25%\n	}\n\n}\n\n@media screen and (min-width: 1088px){\n	#items .item{\n		width:20%\n	}\n\n}\n\n@media screen and (min-width: 1360px){\n	#items .item{\n		width:16.66667%\n	}\n\n}\n\n@media screen and (min-width: 1632px){\n	#items .item{\n		width:14.28571%\n	}\n\n}\n\n@media screen and (min-width: 1904px){\n	#items .item{\n		width:12.5%\n	}\n\n}\n\n#items .item:hover .quickBuy,#items .item:hover .secondImage{\n	display:block\n}\n\n#elementsContainer .image:before,#elementsContainer .image:after{\n	content:' ';\n	display:table\n}\n\n#elementsContainer .image:after{\n	clear:both\n}\n\n#elementsContainer .item{\n	padding:12px\n}\n\n#elementsContainer img{\n	float:left;\n	margin-right:12px\n}\n\n.videoLayer .videoContainer{\n	height:100%\n}\n\n.videoLayer .inner{\n	background:none;\n	padding:0\n}\n\n.videoLayer button{\n	margin:0;\n	padding:0\n}\n\n.videoLayer object,.videoLayer .jwplayer{\n	width:100%;\n	height:100%\n}\n\n.videoLayer .mfp-close{\n	display:none\n}\n\n.backToTop{\n	position:fixed;\n	left:2%;\n	bottom:70px;\n	text-transform:uppercase;\n	background:#000;\n	color:#fff;\n	padding:24px 32px;\n	cursor:pointer;\n	z-index:1040;\n	display:none\n}\n\n.backToTop:after{\n	content:\"\";\n	font-family:'dsquared-icons';\n	speak:none;\n	font-style:normal;\n	font-weight:normal;\n	font-variant:normal;\n	text-transform:none;\n	line-height:1;\n	-webkit-font-smoothing:antialiased;\n	-moz-osx-font-smoothing:grayscale\n}\n\n.backToTop:after{\n	margin-left:80px\n}\n\n@media (max-width: 1279px){\n	.backToTop{\n		left:2%;\n		bottom:9%;\n		padding:20px\n	}\n\n	.backToTop:after{\n		content:\"\";\n		font-family:'dsquared-icons';\n		speak:none;\n		font-style:normal;\n		font-weight:normal;\n		font-variant:normal;\n		text-transform:none;\n		line-height:1;\n		-webkit-font-smoothing:antialiased;\n		-moz-osx-font-smoothing:grayscale\n	}\n\n	.backToTop:after{\n		margin-left:60px\n	}\n\n}\n",
+			".refinementsBar",
+			".refinementsBar.filterBar",
+			".refinementsBar .filterBar",
+			" style=\"display: block; opacity: 0;\"",
+			" style=\"opacity: 0;\"",
+			"overlay",
+			".ref",
+			".refinement",
+			".refinementsBar",
+			"menuBaar.onHover",
+			"menuBaar.onhover",
+			"div.menuBar.react",
+			"div.menuBar",
+			"section class\n",
+			"header\n",
+			"\n    FREE SHIPPING. See details…\n",
+			"\"//media",
+			"font",
+			"http",
+			"Eyewear",
+			"MEN E",
+			"index_%D0%BF%D0%BE%D0%B4%D0%B0%D1%86%D0%B8",
+			"\"js/",
+			"Dsquared2%20Official%20Online%20Store%20United%20States:%20ready%20to%20wear,%20jackets,%20bags,%20backpacks_%D0%BF%D0%BE%D0%B4%D0%B0%D1%86%D0%B8",
+			"menuBar",
+			"class=siteHeader",
+			"Kd",
+			"qb",
+			"ma",
+			"la",
+			"ka",
+			"ja",
+			"ia",
+			"ha",
+			"ga",
+			"fa",
+			"ea",
+			"m",
+			"da",
+			"ba",
+			"aa",
+			"k",
+			"index_%D0%BF%D0%BE%D0%B4%D0%B0%D1%86%D0%B8",
+			"  ",
+			"'/img",
+			"*",
+			"		",
+			"fav",
+			"href=\"\"",
+			"href=\"#\"",
+			"href=\"\"",
+			"html",
+			"$elem",
+			"bx",
+			"webkit",
+			"color",
+			"curv",
+			"timeout",
+			"getPreventDefault",
+			"transition",
+			"container",
+			"page",
+			"height",
+			"appl",
+			",\n",
+			"mb",
+			"rebuildOnResize",
+			"nano",
+			"scrollable",
+			"nano"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"http://www.mobilend.rs/logo/small/",
+			"href=\"\"",
+			"",
+			"\"http://media",
+			"data",
+			"\"data/",
+			"js",
+			"String",
+			"parseFloat",
+			"parseInt",
+			"Error",
+			"navigator",
+			"encodeURIComponent",
+			"isFinite",
+			"screen",
+			"Array",
+			"Math",
+			"document",
+			"Infinity",
+			"Object",
+			"window",
+			"js",
+			"\\t",
+			"'../img",
+			"href=\"#/\"",
+			"href=\"\"",
+			"href=\"#\"",
+			"ng"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 29383,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								28761,
+								28761
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 553.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "css/freelancer.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11459,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10394,
+								10394
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 9221.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.csslint_result_view":
+	{
+		"height": 100.0
+	},
+	"output.exec":
+	{
+		"height": 122.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 112.0
+	},
+	"pinned_build_system": "",
+	"project": "portfolio.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/www/mobilend/mobilend.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 219.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
